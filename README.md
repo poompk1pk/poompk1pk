@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @poompk1pk
-- 👀 I’m interested in future thing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in new thing
+- 🌱 I’m currently learning new thing
+- 💞️ I’m looking to collaborate on new thing
+- 📫 How to reach me new thing
 
 <!---
 poompk1pk/poompk1pk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
